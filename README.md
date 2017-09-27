@@ -6,3 +6,5 @@ Applied Ethics in Science and Technology (Dr. Jefferson FONG)
 This is the textbook we used:
 
 [![Screen Shot 2017-09-27 at 4.53.45 PM.png](https://i.loli.net/2017/09/27/59cb67316e09e.png)](https://i.loli.net/2017/09/27/59cb67316e09e.png)
+
+** IN THE REPERTORY, THERE IS A E-BOOK VERSION.(NOT OPEN SOURSE)**
