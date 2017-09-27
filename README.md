@@ -1,7 +1,7 @@
 # Ethics
 Applied Ethics in Science and Technology (Dr. Jefferson FONG)
 ## Introduction
-1. This is the GC class in UIC that every students should attend this class.
+1. This is the GC programme in UIC that every students should attend this class.
 ## Books
 This is the textbook we used:
 
