@@ -55,8 +55,10 @@ Normative judgement
 			* E.g. the 10 Commandments
 			* In Plato’s *Euthyphro* ( A book ), Socrates asked, 
 				* Are things good because they are approved by gods?
+					* ::if so, better fin out what God told us to do::
 				* Or are things approved by gods because they are good?
-	
+					* ::If so, don’t have to find out what God told us::
+				
 	* Both religious and atheist should develop moral reasoning skills, because: 
 		* We should critically ( using reasons ) evaluate our own or other views of good and bad.
 		* Believers and nonbelievers ought to be able to discuss moral matters together.
@@ -69,9 +71,60 @@ Normative judgement
 	* The Problem of Evil and Free Will
 		* Problem of Evil 
 			* Why are there evil and suffering in this world?
-				* Buddhist: Suffering comes from attachment to the fleeting things of this world.
+				* ::Buddhist::: Suffering comes from attachment to the fleeting things of this world.
 				* Theodicies( Greek for “God justify”)
 				* Some Christian philosophers’ view to explain why evil exists even though there is a benevolent and all powerful God
 				* Original Sin; humans  have a propensity ( ability and tendency ) to sin ( Augustine )
 				* Humans have Free Will to choose between good and evil ( Leibniz )
-		 
+				* ::Christian philosophers::’ view to explain why evil exists even though there is a benevolent and all powerful God
+				* Book says,”Some philosophers deny that there is free will in any entirely deterministic universe. Others argued that free will remains compatible with determinism.”
+
+
+## Secular Ethics and Toleration
+	* Secular ethics
+	* Toleration of religions
+		* At earlier times every European country has an official religion
+	* John Locke ( 1632-1704 ) proposed the: 
+		  **Separation of Church and State**
+	* Criticisms of Secularism and Global Ethics
+		* Paradox of toleration
+
+
+## Chapter 3 Ethical Relativism
+	* **Subjective**: Based on opinion from one’s point-of-view;
+	* **Objective**: Based on “honest”assessment, not just from my point-of-view;
+	* **Reason for Ethical Relativism**
+		* So many people and cultures have different ideas on what is ethical
+		* How do we decide what is good and evil?
+		* “It all depends on people’s point-of-view or opinion”
+	* **Results of Ethical Relativism**
+		* No one’s opinion is better than another’s
+		* No objective standards to judge others
+	
+	::Descriptive(use statistics)and Normative(Norm)::
+
+### (A)Descriptive Ethical Relativism
+		* Descriptive (or factual)claim that there are different ideas about ethical values
+		* “It’s a fact”; we can describe and list how the different cultures and people have different ideas about what is right or wrong.
+		* Textbook lists many examples in this section
+		* “When in Rome, do as the Romans do.”
+### (B)Metaethical(or Normative) Relativism
+		* Says there are no universal or objective norms
+		* All values are based on believes, opinions and practices of individuals or cultures
+###  (C)Objectivism(Non-relativism)
+		* There are universal norms 
+		* Natural Science(including Statistics) is generally objective
+			* If you get a wrong answer in a test, you won’t be able to convince the teacher that’s just his opinion
+	
+
+Between Relativism there are some difference 
+	::Individual relativism::
+			* Ethical judgements and beliefs are the expression of moral outlook and attitudes of individual persons(book’s definition)
+	::Cultural relativism::
+			* The basis for moral judgements lies inch cultural view
+					* Ethical values change from culture to culture 
+					* No one culture’s value is better than another
+					* Individuals must consider the value of the culture they are in.
+					
+				
+	
