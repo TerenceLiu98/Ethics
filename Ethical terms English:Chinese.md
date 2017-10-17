@@ -1,2 +1,0 @@
-# Ethical terms English/Chinese
-Normative		规范的	Evaluation		评估		Empirical		以经验为依据的Aesthetic		审美的Religious		信教的，虔诚的Deter			威慑Premise			假定Intuitionalism		直观论Emotivism		情绪主义，情感论Aside			向旁边Objectivist		客观主义者Subjectivist		主观主义者	Consequentialist	道德推理		Teleological		目的论的Deontological	义务论式的	Perspective		透视的	Cosmopolitanism	世界主义
